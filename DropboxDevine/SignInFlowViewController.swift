@@ -1,20 +1,17 @@
 //
-//  SignUpScrollViewController.swift
+//  SignInFlowViewController.swift
 //  DropboxDevine
 //
-//  Created by WilliamDevine on 9/13/14.
+//  Created by WilliamDevine on 9/14/14.
 //  Copyright (c) 2014 WilliamDevine. All rights reserved.
 //
 
 import UIKit
 
-class SignUpScrollViewController: UIViewController {
-    @IBOutlet weak var scrollView: UIScrollView!
+class SignInFlowViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
-        scrollView.contentSize = CGSizeMake(320,760)
 
         // Do any additional setup after loading the view.
     }
@@ -24,6 +21,9 @@ class SignUpScrollViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     
+    @IBAction func clickBackButton(sender: AnyObject) {
+        navigationController?.popViewControllerAnimated(true)
+    }
 
     /*
     // MARK: - Navigation
