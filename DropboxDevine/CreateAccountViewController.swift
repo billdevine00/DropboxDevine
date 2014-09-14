@@ -10,10 +10,11 @@ import UIKit
 
 class CreateAccountViewController: UIViewController {
 
+   
     override func viewDidLoad() {
         super.viewDidLoad()
-    
-        performSegueWithIdentifier("CreateAccountSegue", sender: self)
+
+      performSegueWithIdentifier("CreateAccountSegue", sender: self)
 
 
         // Do any additional setup after loading the view.
@@ -23,7 +24,7 @@ class CreateAccountViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-    
+
 
     /*
     // MARK: - Navigation

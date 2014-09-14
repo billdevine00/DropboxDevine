@@ -21,6 +21,9 @@ class CreateFormViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     
+    @IBAction func clickBackNav(sender: AnyObject) {
+        navigationController?.popViewControllerAnimated(true)
+    }
 
     /*
     // MARK: - Navigation
