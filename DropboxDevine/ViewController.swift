@@ -22,6 +22,10 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    @IBAction func swipeGesture(sender: AnyObject) {
+        performSegueWithIdentifier("welcome1", sender: self)
+        
+    }
 
 }
 

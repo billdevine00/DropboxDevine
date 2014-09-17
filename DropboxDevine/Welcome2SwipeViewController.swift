@@ -1,5 +1,5 @@
 //
-//  CreateFormViewController.swift
+//  Welcome2SwipeViewController.swift
 //  DropboxDevine
 //
 //  Created by WilliamDevine on 9/14/14.
@@ -8,13 +8,8 @@
 
 import UIKit
 
-class CreateFormViewController: UIViewController {
-    @IBOutlet weak var firstNameField: UITextField!
-    @IBOutlet weak var lastNameField: UITextField!
-    @IBOutlet weak var emailField: UITextField!
-    @IBOutlet weak var passwordField: UITextField!
-    @IBOutlet weak var createButton: UIButton!
-    
+class Welcome2SwipeViewController: UIViewController {
+
     override func viewDidLoad() {
         super.viewDidLoad()
 
@@ -26,12 +21,8 @@ class CreateFormViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     
-    @IBAction func clickBackNav(sender: AnyObject) {
-        navigationController?.popViewControllerAnimated(true)
-    }
-
-    @IBAction func dismissOnTap(sender: AnyObject) {
-        view.endEditing(true)
+    @IBAction func swipeWelcome(sender: AnyObject) {
+        performSegueWithIdentifier("welcome2", sender: self)
     }
 
     /*

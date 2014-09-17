@@ -18,6 +18,7 @@
 		6576D88519C5181A007DB566 /* SignUpScrollViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6576D88419C5181A007DB566 /* SignUpScrollViewController.swift */; };
 		6576D88719C6272C007DB566 /* CreateFormViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6576D88619C6272C007DB566 /* CreateFormViewController.swift */; };
 		6576D88B19C643C6007DB566 /* SignInFlowViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6576D88A19C643C6007DB566 /* SignInFlowViewController.swift */; };
+		6576D88D19C64966007DB566 /* Welcome2SwipeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6576D88C19C64966007DB566 /* Welcome2SwipeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		6576D88419C5181A007DB566 /* SignUpScrollViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignUpScrollViewController.swift; sourceTree = "<group>"; };
 		6576D88619C6272C007DB566 /* CreateFormViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateFormViewController.swift; sourceTree = "<group>"; };
 		6576D88A19C643C6007DB566 /* SignInFlowViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignInFlowViewController.swift; sourceTree = "<group>"; };
+		6576D88C19C64966007DB566 /* Welcome2SwipeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Welcome2SwipeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 				6576D85C19C4F90C007DB566 /* AppDelegate.swift */,
 				6576D85E19C4F90C007DB566 /* ViewController.swift */,
 				6576D86019C4F90C007DB566 /* Main.storyboard */,
+				6576D88C19C64966007DB566 /* Welcome2SwipeViewController.swift */,
 				6576D88619C6272C007DB566 /* CreateFormViewController.swift */,
 				6576D88419C5181A007DB566 /* SignUpScrollViewController.swift */,
 				6576D88019C502EF007DB566 /* SignInRootViewController.swift */,
@@ -230,6 +233,7 @@
 				6576D88719C6272C007DB566 /* CreateFormViewController.swift in Sources */,
 				6576D88119C502EF007DB566 /* SignInRootViewController.swift in Sources */,
 				6576D87F19C5024A007DB566 /* CreateAccountViewController.swift in Sources */,
+				6576D88D19C64966007DB566 /* Welcome2SwipeViewController.swift in Sources */,
 				6576D88519C5181A007DB566 /* SignUpScrollViewController.swift in Sources */,
 				6576D85F19C4F90C007DB566 /* ViewController.swift in Sources */,
 				6576D85D19C4F90C007DB566 /* AppDelegate.swift in Sources */,
