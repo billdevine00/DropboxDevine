@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BF9ECF24-1A93-41DB-AA13-EA7B3368D904</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DropboxDevine</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4C49B332C58345297FA6659A99419FA591C01BBC</key>
+		<string>https://github.com/williamdevine/DropboxDevine.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DropboxDevine.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4C49B332C58345297FA6659A99419FA591C01BBC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/williamdevine/DropboxDevine.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4C49B332C58345297FA6659A99419FA591C01BBC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4C49B332C58345297FA6659A99419FA591C01BBC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DropboxDevine</string>
+		</dict>
+	</array>
+</dict>
+</plist>
